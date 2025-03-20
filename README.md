@@ -1,23 +1,20 @@
-<<<<<<< HEAD
 # Salesforce-Project
-청년CRM101 프로젝트
-=======
-# Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# 청년CRM101 프로젝트
 
-## How Do You Plan to Deploy Your Changes?
+# 2025.02.03 ~ 2025.03 내일의집
+개요 : 내일의 집 플랫폼 운영 효율성 향상 및 파트너/고객 만족도 증대를 위한 시스템 구축
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+인원 : 손우창, 허진우, 김종원, 김상윤, 김영광 총5인
 
-## Configure Your Salesforce DX Project
+# 기술 스택
+APEX, LWC, JavaScript, Sales Cloud, Service Cloud, Expereice Cloud, Taebleau  
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+# 프로젝트 개요
+Sales Cloud: 인테리어 및 건자재 업체 입점 심사 자동화
 
-## Read All About It
+Experience Cloud: 파트너사 협업 공간 및 고객 맞춤형 시공 쇼케이스 제공
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
->>>>>>> ee3bdfd (Initial commit)
+Service Cloud: 고객 및 파트너 문의 통합 관리 및 해결
+
+태블로 대시보드: 세일즈 및 서비스 업무 보고서 시각화
